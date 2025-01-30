@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Andras and I'm a Computer Science & Engineering Student from Europe.</p>
+<p align="left">My name is Andras and I'm a Computer Science Student from Europe.</p>
 
 ###
 
